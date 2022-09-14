@@ -25,3 +25,4 @@ Principais procedures e funções:
 ```
 RetornaIdade, RetornaFaixaSalarial, RetornaMaioridade.
 ```
+Adicionado teste.
